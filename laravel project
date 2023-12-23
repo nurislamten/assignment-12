@@ -1,0 +1,20 @@
+task1
+laravel new TikiTicketingSystem
+
+task2
+php artisan make:model Location
+php artisan make:model User
+php artisan make:model Trip
+php artisan make:model SeatAllocation
+
+task3
+php artisan make:model Location
+php artisan make:model User
+php artisan make:model Trip
+php artisan make:model SeatAllocation
+
+task4
+php artisan make:controller LocationController
+php artisan make:controller UserController
+php artisan make:controller TripController
+php artisan make:controller SeatAllocationController
